@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tal_URL>
+	<afrinic>
+		<notification></notification>
+		<notify></notify>
+	</afrinic>
+	
+	<apnic-afrinic>
+		<notification></notification>
+		<notify></notify>
+	</apnic-afrinic>
+	
+	<apnic-arin>
+		<notification></notification>
+		<notify></notify>
+	</apnic-arin>
+	
+	<apnic-iana>
+		<notification></notification>
+		<notify></notify>
+	</apnic-iana>
+	
+	<apnic-lacnic>
+		<notification></notification>
+		<notify></notify>
+	</apnic-lacnic>
+	
+	<apnic-ripe>
+		<notification></notification>
+		<notify></notify>
+	</apnic-ripe>
+	
+	<lacnic>
+		<notification></notification>
+		<notify></notify>
+	</lacnic>
+	
+	<ripe-ncc>
+		<notification>https://rrdp.ripe.net/notification.xml</notification>
+		<notify>https://ca.rg.net/rrdp/notify.xml</notify>
+	</ripe-ncc>
+</Tal_URL>
